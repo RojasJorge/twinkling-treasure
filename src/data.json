@@ -1,0 +1,335 @@
+{
+  "categories": [
+    {
+      "name": "Pulseras",
+      "slug": "pulseras",
+      "image": "/mujeres/pm-thumb.jpeg"
+    },
+    {
+      "name": "Tobillereas",
+      "slug": "tobilleras",
+      "image": "/tobilleras/tb-thumb.jpeg"
+    },
+    {
+      "name": "Charm waist",
+      "slug": "charm-waist",
+      "image": "/charm-waist/cw-thumb.jpeg"
+    }
+  ],
+  "genderCategories": [
+    {
+      "title": "gender",
+      "value": "mujer"
+    },
+    {
+      "title": "gender",
+      "value": "hombre"
+    }
+  ],
+  "products": [
+    {
+      "id": "001",
+      "name": "Rosa y corazones",
+      "slug": "rosa-y-corazones",
+      "imageUrl": "/mujeres/01.jpeg",
+      "excerpt": "Este producto es de corazones de color perla y detalles rosados con blanco.",
+      "description": "Este producto es de corazones de color perla y detalles rosados con blanco.",
+      "price": "Q14.00",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "mujer"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Mariposas y fresas",
+      "slug": "mariposas-y-fresas",
+      "imageUrl": "/mujeres/02.jpeg",
+      "excerpt": "Regularmente para niñas",
+      "description": "",
+      "price": "Q26.30",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "mujer"
+        }
+      ]
+    },
+    {
+      "id": "003",
+      "name": "Kuromi my melody",
+      "slug": "kuromi-my-melody",
+      "imageUrl": "/mujeres/03.jpeg",
+      "excerpt": "Personajes de Sanrio.",
+      "description": "Personajes de Sanrio.",
+      "price": "Q47.80",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "mujer"
+        }
+      ]
+    },
+    {
+      "id": "004",
+      "name": "Perlitas",
+      "slug": "perlitas",
+      "imageUrl": "/mujeres/04.jpeg",
+      "excerpt": "Pulsera con perlas y dije de corazón.",
+      "description": "Pulsera con perlas y dije de corazón.",
+      "price": "Q47.80",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "mujer"
+        }
+      ]
+    },
+    {
+      "id": "005",
+      "name": "Estrellas negras y perlas",
+      "slug": "pulsera-03",
+      "imageUrl": "/hombres/01.jpeg",
+      "excerpt": "Cadena de estrellas negras con perlas.",
+      "description": "Cadena de estrellas negras con perlas.",
+      "price": "Q52.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "hombre"
+        }
+      ]
+    },
+    {
+      "id": "006",
+      "name": "Perlas blancas",
+      "slug": "pulsera-03",
+      "imageUrl": "/hombres/02.jpeg",
+      "excerpt": "Cadena con perlas blancas.",
+      "description": "Cadena con perlas blancas.",
+      "price": "Q52.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "hombre"
+        }
+      ]
+    },
+    {
+      "id": "007",
+      "name": "Piedras, perlas y estrellas",
+      "slug": "pulsera-03",
+      "imageUrl": "/hombres/03.jpeg",
+      "excerpt": "Piedras, perlas y estrellas.",
+      "description": "Cadena con piedras, perlas y estrellas.",
+      "price": "Q52.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "hombre"
+        }
+      ]
+    },
+    {
+      "id": "008",
+      "name": "Piedras blancas con dije de estrella.",
+      "slug": "pulsera-03",
+      "imageUrl": "/hombres/04.jpeg",
+      "excerpt": "Piedras blancas con dije de estrella.",
+      "description": "Cadena con Piedras blancas con dije de estrella.",
+      "price": "Q25.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "pulseras"
+        },
+        {
+          "title": "gender",
+          "value": "hombre"
+        }
+      ]
+    },
+    {
+      "id": "009",
+      "name": "Piedras blancas y estrellas doradas",
+      "slug": "",
+      "imageUrl": "/tobilleras/01.jpeg",
+      "excerpt": "Piedras blancas y estrellas doradas.",
+      "description": "Cadena con piedras blancas y estrellas doradas.",
+      "price": "Q25.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "tobilleras"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0010",
+      "name": "Tobillera de girasoles",
+      "slug": "",
+      "imageUrl": "/tobilleras/02.jpeg",
+      "excerpt": "Tobillera con diseño de flores color metal.",
+      "description": "Cadena con Tobillera con diseño de flores color metal.",
+      "price": "Q25.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "tobilleras"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0011",
+      "name": "Cadena dorada con mariposa",
+      "slug": "",
+      "imageUrl": "/tobilleras/03.jpeg",
+      "excerpt": "Cadena dorada con mariposa",
+      "description": "Cadena dorada con mariposa",
+      "price": "Q25.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "tobilleras"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0012",
+      "name": "Cadena dorada con trebol rosa",
+      "slug": "",
+      "imageUrl": "/tobilleras/04.jpeg",
+      "excerpt": "Cadena dorada con trebol rosa",
+      "description": "Cadena dorada con trebol rosa",
+      "price": "Q26.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "tobilleras"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0013",
+      "name": "Charm de corazones",
+      "slug": "",
+      "imageUrl": "/charm-waist/01.jpeg",
+      "excerpt": "Charm de corazones.",
+      "description": "Charm de corazones.",
+      "price": "Q26.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "charm-waist"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0014",
+      "name": "Charm de perlas y corazones",
+      "slug": "",
+      "imageUrl": "/charm-waist/02.jpeg",
+      "excerpt": "Charm de perlas y corazones.",
+      "description": "Charm de perlas y corazones.",
+      "price": "Q26.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "charm-waist"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0015",
+      "name": "Charm básico",
+      "slug": "",
+      "imageUrl": "/charm-waist/03.jpeg",
+      "excerpt": "Charm básico.",
+      "description": "Charm básico.",
+      "price": "Q26.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "charm-waist"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    },
+    {
+      "id": "0015",
+      "name": "Charm básico 2",
+      "slug": "",
+      "imageUrl": "/charm-waist/04.jpeg",
+      "excerpt": "Charm básico 2.",
+      "description": "Charm básico 2.",
+      "price": "Q26.10",
+      "categories": [
+        {
+          "title": "category",
+          "value": "charm-waist"
+        },
+        {
+          "title": "gender",
+          "value": "unisex"
+        }
+      ]
+    }
+  ]
+}
